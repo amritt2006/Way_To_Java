@@ -8,7 +8,7 @@ public class checklowercase {
             System.out.println("it is a lowercase");
         }
         else{
-            System.out.println("it is an uppercase");
+            System.out.println("it is not lowercase");
         }
     }
     
